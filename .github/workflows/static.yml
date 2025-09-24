@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang=""en">
+<head>
+    <meta charset="UTF-8">
+    <title>Nur Fadli Yoga</title>
+</head>
+    <body>
+        <h1>Nur Fadli Yoga</h1>
+        <img src="pendakian .jpg" atl="profile image from Nur Fadli Yoga" height="200">
+        
+        <h2>Summary</h2>
+        <p>I am an enthusiastic and motivated undergraduate Physics student at Hasanuddin University with a strong interest in astrophysics and cosmology.</p>
+        <hr>
+        <h2>Education</h2>
+        <ul>
+            <li>Bachelor's degree of Science, Physics - Hasanuddin University (2023-Presnt)</li>
+        </ul>
+        <hr>
+        <h2>Work Experience / Organizational Experience</h2>
+        <ul>
+            <li><h3>Member of nature lovers' organization (KORPALA UNHAS).</h3></li>
+        <p>2023 - Present</p>
+        <li>Climbing operations on the Maros cliffs</li>
+        <li>Conducting a climbing and cleanup operation on Mount Bawakaraeng</li>
+        <li>Helping to carry out the KORPALA UNHAS Academic Sailing Expedition 3 (EPA III)</li>
+        </ul>
+        <hr>
+        <h2>Skills</h2>
+        <ul>
+            <li>Physics knowladge: ⭐⭐⭐⭐</li>
+            <li>Organizational skills: ⭐⭐</li>
+            <li>Research & Analytical skills: ⭐⭐⭐⭐</li>
+        </ul>
+        <hr>
+        </ul>
+        <hr>
+        <h2>Other</h2>
+        <ul>
+            <li>My Hobbies</li>
+            <li>Contact Me</li>
+        </ul>
+        <footer>© NUR FADLI YOGA All rights reserved.</footer>
+    </body>
+</html>
